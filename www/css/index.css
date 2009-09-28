@@ -1,0 +1,44 @@
+.containerTitle
+{
+  background:#eeeeee;
+  border:1px solid #cccccc;
+    padding:5px;
+}
+.containerBody
+{
+  border:1px solid #cccccc;
+  border-top:0px;
+  display:none;
+  padding:5px;
+}
+.photosTitle{
+  font-size:20px;
+  font-weight:bold;
+}
+
+.s16
+{
+  font-size:16;
+}
+
+.top_menu
+{
+  background:#333333;
+  color:white;
+  font-size:14px;
+  font-weight:bold;
+}
+.top_menu a
+{
+  color:white;
+}
+.photos
+{
+
+}
+.main
+{
+  text-align:center;
+  width:80%;
+  border:1px solid #eeeeee;
+}
